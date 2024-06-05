@@ -1,0 +1,25 @@
+*.settings
+*.classpath
+*.project
+*/wtpmodules
+*/bin
+*/target
+/target
+/bin
+*rebel.xml
+.idea
+/out
+*.iml
+.tern-project
+*.*~
+**/nbproject
+**/nb-configuration.xml
+*.wtpmodules
+
+# Arquivos do projeto angular
+**/dist
+**/typings
+**/node_modules
+npm-debug.log
+**/src/**/*.js
+**/src/**/*.map
